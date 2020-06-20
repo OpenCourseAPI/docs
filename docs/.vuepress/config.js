@@ -8,7 +8,8 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
-  description: description,
+  // TODO: update
+  description: 'Open Course API\'s mission is to teach students how to make data driven applications.',
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
