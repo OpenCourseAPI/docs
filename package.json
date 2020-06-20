@@ -1,0 +1,21 @@
+{
+  "name": "OpenCourseAPI",
+  "version": "0.0.1",
+  "description": "OC API&#39;s mission is to teach students how to make data driven applications for their school.",
+  "main": "index.js",
+  "authors": {
+    "name": "Madhav Varshney",
+    "email": ""
+  },
+  "repository": "https://github.com/OpenCourseAPI/docs//Open Course API",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.3.1",
+    "@vuepress/plugin-back-to-top": "^1.3.1",
+    "@vuepress/plugin-medium-zoom": "^1.3.1"
+  }
+}
