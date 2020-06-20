@@ -1,6 +1,6 @@
 # Open Course API
 
-> OC API&#39;s mission is to teach students how to make data driven applications for their school.
+> Open Course API's mission is to teach students how to make data driven applications for their school. This repo contains the docs.
 
 ## Development
 
@@ -9,5 +9,4 @@ yarn dev
 yarn build
 ```
 
-For more details, please head VuePress's [documentation](https://v1.vuepress.vuejs.org/).
-
+_More is to follow!_

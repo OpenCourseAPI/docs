@@ -1,13 +1,13 @@
 {
   "name": "OpenCourseAPI",
   "version": "0.0.1",
-  "description": "OC API&#39;s mission is to teach students how to make data driven applications for their school.",
+  "description": "The documentation for Open Course API.",
   "main": "index.js",
   "authors": {
     "name": "Madhav Varshney",
-    "email": ""
+    "email": "madhavarshney@gmail.com"
   },
-  "repository": "https://github.com/OpenCourseAPI/docs//Open Course API",
+  "repository": "https://github.com/OpenCourseAPI/docs",
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"
