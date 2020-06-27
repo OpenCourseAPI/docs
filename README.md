@@ -1,6 +1,6 @@
 # Open Course API
 
-> Open Course API's mission is to teach students how to make data driven applications for their school. This repo contains the docs.
+Open Course API's mission is to teach students how to make data driven applications for their school. This repo contains the docs.
 
 ## Development
 
