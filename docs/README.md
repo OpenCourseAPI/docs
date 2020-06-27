@@ -9,10 +9,10 @@ features:
 - title: OwlAPI
   details: An open source REST API written in Python to scrape and serve Foothill / De Anza course data 📒
 - title: Tools
-  details: Feature 2 Description
+  details: There's a lot that's in Open Course API! Stay tuned for our latest updates.
 - title: Data Analysis
-  details: Feature 3 Description
-footer: Made with ❤️ by Madhav Varshney
+  details: With a plethora of data and tools for you to get your feet wet, we're just looking for folks that wan't to start exploring!
+footer: Made with ❤️ by Madhav and Kishan
 ---
 
 ## Start Hacking
