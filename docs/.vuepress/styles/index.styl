@@ -11,3 +11,41 @@ body
 
 .home .hero img
   max-width 450px!important
+
+.api
+  pre
+    max-height: 80vh
+
+  p.demo
+    display: flex
+    align-items: center
+
+  .spacer
+    flex: 1
+
+  .api-path
+    font-weight: 600
+
+  .description
+    margin: 0 16px
+
+  .action-button
+    border: none
+    outline: none
+    font-family: inherit
+    cursor: pointer
+
+    white-space: nowrap;
+
+    display: inline-block
+    // font-size: 1.2rem
+    color: #fff
+    background-color: #3eaf7c
+    padding: 0.8rem 1.4rem
+    border-radius: 4px
+    transition: background-color 0.1s ease
+    box-sizing: border-box
+    border-bottom: 1px solid #389d70
+    &:hover
+      background-color lighten($accentColor, 10%)
+
