@@ -52,11 +52,19 @@ module.exports = {
     sidebar: {
       '/guide/': [
         {
-          title: 'Guide',
+          title: 'Open Course API',
           collapsable: false,
           children: [
             '',
+            'about',
+          ]
+        },
+        {
+          title: 'OwlAPI',
+          collapsable: false,
+          children: [
             'using-owlapi',
+            'data-format',
           ]
         }
       ],
