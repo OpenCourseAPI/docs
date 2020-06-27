@@ -52,7 +52,7 @@ module.exports = {
     sidebar: {
       '/guide/': [
         {
-          title: 'Open Course API',
+          title: 'Get Started',
           collapsable: false,
           children: [
             '',
