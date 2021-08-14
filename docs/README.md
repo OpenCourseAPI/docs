@@ -35,14 +35,14 @@ pipenv run python server.py
 
 ### Data Analysis
 
-[View on GitHub](https://github.com/OpenCourseAPI/LiveMyPortalData)
+[View on GitHub](https://github.com/OpenCourseAPI/live-fhda-class-data)
 
 #### Setup
 ``` bash
-git clone https://github.com/OpenCourseAPI/LiveMyPortalData.git
-git clone https://github.com/OpenCourseAPI/DataAnalysis.git
+git clone https://github.com/OpenCourseAPI/live-fhda-class-data.git
+git clone https://github.com/OpenCourseAPI/data-analysis.git
 
-cd DataAnalysis
+cd data-analysis
 ```
 
 #### Let's get going!
